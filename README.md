@@ -1,6 +1,11 @@
-# Fintech Data Analyst
-Fintech Data Analyst Portfolio and Case Studies.
+<div align="center">
+  <img src="./_assets/imgs/billboard-0001.jpg" alt="Fintech Data Analyst" width="450"/>   
+  
+  [![Static Badge](https://img.shields.io/badge/FIGMA-Design%20System%20v.3.0.1-f542d7?style=flat&link=https%3A%2F%2Fgithub.com%2Felwoodberry3%2Fideparture)](https://www.figma.com/community/file/1424120225806693615)
+  [![Static Badge](https://img.shields.io/badge/Documentation-%20v.1.0.1-blue)](https://672152a5a545bd34029947bd-kmmyfybono.chromatic.com)
 
+  <p>Fintech Data Analyst Portfolio and Case Studies.</p>
+</div>
 
 ## Prerequisites  
 
